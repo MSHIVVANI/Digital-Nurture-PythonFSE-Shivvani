@@ -31,3 +31,4 @@
 -- grade depends directly on enrollment.
 -- No non-key attribute determines another non-key attribute.
 -- Therefore enrollments satisfies 3NF.
+
