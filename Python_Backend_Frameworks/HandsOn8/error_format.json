@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": "NOT_FOUND",
+    "message": "Course with id 99 does not exist",
+    "field": null
+  }
+}
